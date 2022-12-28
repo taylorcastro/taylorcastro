@@ -1,8 +1,4 @@
-### Hi there 👋 I am Taylor Castro, I'm always enthusiastic about learning new things.
-
-<!--
-**taylorcastro/taylorcastro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+### Hi there 👋 I am ✨Taylor Castro✨, I'm always enthusiastic about learning new things.
 - 🔭 I’m currently working as BigData Developer
 - 🌱 I’m currently learning about new technologies, Machine Learning and NLP
 - 👯 I’m looking to collaborate on all of kind opens creatives projects
